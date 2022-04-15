@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.ibb.co/FYDfJdt/Git-Hub-Readme-Top.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Greazi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fusion</h1>
 <h3 align="center">I'm a enthousiastic person that loves to work on projects with friends</h3>
 
 
 ## 😃 About Me
 
-- 💻 I’m currently working on **[MagicValley](https://MagicValley.nl)**
+- 💻 I’m currently working on **[StarMc](https://starmc.net)**
 
-- 📚 I’m currently learning **Java, Python and C++**
+- 📚 I’m currently learning **Java, js and python**
 
 - ⚡ Fun fact **I like to play games and maybe even with you**
 
-- 🔗 I’m also colaborating to **[TechsCode's project](https://TechsCode.com)**
+- 🔗 I’m also colaborating to **[Luna's project](https://github.com/xddirti)**
 
-- 💾 All of my public pojects are available at **[My Profile](https://github.com/Greazi-Times)**
+- 💾 All of my public pojects are available at **[My Profile](https://github.com/fu3i0n)**
 
 ## 🚀 Languages and Tools:
 
@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Greazi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Greazi-Times&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Fusions's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Greazi-Times&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
