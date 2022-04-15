@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fusion</h1>
 <h3 align="center">I'm a enthousiastic person that loves to work on projects with friends</h3>
 
-
 ## 😃 About Me
 
 - 💻 I’m currently working on **[StarMc](https://starmc.net)**
@@ -35,23 +34,22 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Greazi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Greazi-Times&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fusion's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fu3i0n&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📲 My Github Statistics
 
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Greazi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Greazi-Times&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Greazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greazi-Times&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fusion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fu3i0n&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fusion's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fu3i0n&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Fusions's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Greazi-Times&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Fusions's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fu3i0n&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -67,7 +65,8 @@
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Greazi-Times">
+    <img src="https://komarev.com/ghpvc/?username=fu3i0n">
 </a>
-<a href="https://github.com/Greazi-Times?tab=followers"><img src="https://img.shields.io/github/followers/Greazi-Times?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/fu3i0n?tab=followers"><img src="https://img.shields.io/github/followers/fu3i0n?label=Followers&style=social" alt="GitHub Badge"></a>
