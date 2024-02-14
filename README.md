@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fusion
 ==============================================================================================================================
 
-I'm a enthousiastic person that loves to work on projects with friends
+I'm a enthusiastic person that loves to work on projects with friends
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [me.amari.wtf](mailto:me.amari.wtf)
 * 🚀  I'm currently working on [Spiralgn](http://spiralgn.net)
 * 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on intresting projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
