@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **How to get copilot to work**
 
 - ⚡ Fun fact **I like using copilot**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
