@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- ⚡ Fun fact **I am mentally speical**
+- ⚡ Fun fact **I am mentally special**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
