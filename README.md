@@ -142,7 +142,7 @@ class Developer {
 
 ## 💭 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Random Dev Quote"/>
 </div>
 
 ---
