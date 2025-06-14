@@ -12,12 +12,21 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 🎯 Currently crafting magic:
-- 🏗️ **Architecting** a revolutionary lifesteal plugin that'll redefine Minecraft PvP
-- 🎓 **Mastering** Kotlin like it's my native tongue 
-- 🔥 **Building** immersive server experiences at [daisy.cat](https://daisy.cat)
-- ✨ **Creating** plugins that blur the line between game and art
-- 🧠 **Operating** on my last brain cell but making every line count
+
+🏗️ **Architecting** a revolutionary lifesteal plugin that'll redefine Minecraft PvP
+
+🎓 **Mastering** Kotlin like it's my native tongue 
+
+🔥 **Building** immersive server experiences at [daisy.cat](https://daisy.cat)
+
+✨ **Creating** plugins that blur the line between game and art
+
+🧠 **Operating** on my last brain cell but making every line count
+
+</div>
 </div>
 
 <div align="center">
@@ -25,7 +34,7 @@
 ### ⚡ What drives me:
 ```kotlin
 class Developer {
-    val name = "Daisy"
+    val name = "Fusion"
     val currentFocus = listOf("Kotlin", "Plugin Development", "Backend Magic")
     val lifePhilosophy = "Code with passion, debug with patience"
     val currentStatus = "Turning caffeine into code"
