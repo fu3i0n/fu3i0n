@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
 ### 🎯 Currently crafting magic:
 - 🏗️ **Architecting** a revolutionary lifesteal plugin that'll redefine Minecraft PvP
@@ -18,11 +18,14 @@
 - 🔥 **Building** immersive server experiences at [daisy.cat](https://daisy.cat)
 - ✨ **Creating** plugins that blur the line between game and art
 - 🧠 **Operating** on my last brain cell but making every line count
+</div>
+
+<div align="center">
 
 ### ⚡ What drives me:
 ```kotlin
 class Developer {
-    val name = "Fusion"
+    val name = "Daisy"
     val currentFocus = listOf("Kotlin", "Plugin Development", "Backend Magic")
     val lifePhilosophy = "Code with passion, debug with patience"
     val currentStatus = "Turning caffeine into code"
