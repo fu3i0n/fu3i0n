@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+realm+%F0%9F%8C%8C;Full-stack+developer+%7C+Plugin+architect;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### 🎯 Currently in the zone:
 - 🏗️ **Architecting** a next-gen lifesteal plugin that'll blow your mind
 - 🎓 **Mastering** Kotlin like it's my native language 
