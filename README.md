@@ -34,7 +34,7 @@
 ### ⚡ What drives me:
 ```kotlin
 class Developer {
-    val name = "Fusion"
+    val name = "Daisy"
     val currentFocus = listOf("Kotlin", "Plugin Development", "Backend Magic")
     val lifePhilosophy = "Code with passion, debug with patience"
     val currentStatus = "Turning caffeine into code"
