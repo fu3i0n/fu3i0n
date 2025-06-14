@@ -12,6 +12,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 🎯 Currently crafting magic:
 
 🏗️ **Architecting** a revolutionary lifesteal plugin that'll redefine Minecraft PvP
@@ -25,8 +27,12 @@
 🧠 **Operating** on my last brain cell but making every line count
 
 </div>
+</div>
+
+<div align="center">
 
 ### ⚡ What drives me:
+</div>
 ```kotlin
 class Developer {
     val name = "Fusion"
