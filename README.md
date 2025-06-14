@@ -32,6 +32,8 @@
 <div align="center">
 
 ### ⚡ What drives me:
+
+<div align="center">
 </div>
 ```kotlin
 class Developer {
