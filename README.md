@@ -1,19 +1,28 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Daisy!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+realm+%F0%9F%8C%8C;Full-stack+developer+%7C+Plugin+architect;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E879F9&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+realm+%F0%9F%8C%8C;Minecraft+Plugin+Architect+%7C+Kotlin+Developer;Crafting+immersive+experiences+%E2%9C%A8;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-### 🎯 Currently in the zone:
-- 🏗️ **Architecting** a next-gen lifesteal plugin that'll blow your mind
-- 🎓 **Mastering** Kotlin like it's my native language 
-- 🔥 **Pushing** the boundaries of what's possible in Minecraft development
-- 🧠 **Operating** on my last brain cell but making it count
+<div align="center">
+  
+🌸 **[Visit my digital sanctuary at daisy.cat](https://daisy.cat)** 🌸
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 🎯 Currently crafting magic:
+- 🏗️ **Architecting** a revolutionary lifesteal plugin that'll redefine Minecraft PvP
+- 🎓 **Mastering** Kotlin like it's my native tongue 
+- 🔥 **Building** immersive server experiences at [daisy.cat](https://daisy.cat)
+- ✨ **Creating** plugins that blur the line between game and art
+- 🧠 **Operating** on my last brain cell but making every line count
 
 ### ⚡ What drives me:
 ```kotlin
 class Developer {
-    val name = "Daisy"
+    val name = "Fusion"
     val currentFocus = listOf("Kotlin", "Plugin Development", "Backend Magic")
     val lifePhilosophy = "Code with passion, debug with patience"
     val currentStatus = "Turning caffeine into code"
@@ -22,10 +31,11 @@ class Developer {
 
 ---
 
-## 🌟 Connect with me across the multiverse
+## 🌸 Connect with me across the digital universe
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/🌸_daisy.cat-FF69B4?style=for-the-badge&logoColor=white)](https://daisy.cat)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/vzDdtcjWZY)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fu3i0n)&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fu3i0n)&nbsp;
@@ -74,12 +84,12 @@ class Developer {
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fu3i0n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fu3i0n&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fu3i0n&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=E879F9&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fu3i0n&theme=synthwave&hide_border=true&background=0D1117&stroke=E879F9&ring=E879F9&fire=E879F9&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fu3i0n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fu3i0n&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=E879F9&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
 </div>
 
 ---
@@ -87,7 +97,7 @@ class Developer {
 ## 🏆 Achievement Unlocked
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fu3i0n&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fu3i0n&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy Stats"/>
 </div>
 
 ---
@@ -105,20 +115,22 @@ class Developer {
 🎯 Goal: Redefine multiplayer survival
 ```
 
+**Coming Soon:** A plugin that'll change how you think about Minecraft PvP forever.
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fu3i0n&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fu3i0n&bg_color=0D1117&color=E879F9&line=E879F9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ## 💭 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -126,19 +138,20 @@ class Developer {
 ## 🔥 Quick Stats
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fu3i0n&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/fu3i0n?color=F85D7F&style=for-the-badge&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/fu3i0n?color=F85D7F&style=for-the-badge&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=fu3i0n&color=E879F9&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/fu3i0n?color=E879F9&style=for-the-badge&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/fu3i0n?color=E879F9&style=for-the-badge&label=TOTAL+STARS)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,22&height=150&section=footer&text=Thanks%20for%20visiting%20daisy.cat!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 </div>
 
 ---
 <div align="center">
-  <i>⚡ "Powered by caffeine and pure determination" ⚡</i>
+  <i>🌸 "Crafting digital dreams with code and caffeine" 🌸</i><br>
+  <sub>✨ Visit <a href="https://daisy.cat">daisy.cat</a> for the full experience ✨</sub>
 </div>
