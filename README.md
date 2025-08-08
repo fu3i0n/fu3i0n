@@ -38,7 +38,7 @@
 
 **🎮 Minecraft Server:**  
 ![Minecraft Server](https://img.shields.io/badge/status-online-brightgreen?style=for-the-badge&logo=minecraft&logoColor=white)  
-`play.daisy.cat`
+`play.bleed.club`
 
 </div>
 
