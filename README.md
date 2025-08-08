@@ -20,7 +20,7 @@
 
 ### 💖 Meet Daisy
 
-<img src="https://i.imgur.com/3p1xDXR.png" width="120" style="border-radius:50%;" alt="Daisy Avatar">
+<img src="https://image.daisy.cat/uploads/_ndD0Cx08PTFr_ajoGqhp.png" width="120" style="border-radius:50%;" alt="Daisy Avatar">
 
 | 🌟 Role             | 💻 Specialty                             | 🎨 Aesthetic        |
 |---------------------|------------------------------------------|---------------------|
