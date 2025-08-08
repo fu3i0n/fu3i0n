@@ -85,13 +85,11 @@
 ## 🎯 Featured Project
 
 ### 🔥 Lifesteal Plugin — WIP
-```
 
-          🚀 Status: Under Heavy Development
-          ⚡ Language: Kotlin
-          🎯 Goal: Redefine multiplayer survival
+🚀 Status: Under Heavy Development
+⚡ Language: Kotlin
+🎯 Goal: Redefine multiplayer survival
 
-```
 
 </div>
 
