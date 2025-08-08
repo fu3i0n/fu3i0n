@@ -20,8 +20,6 @@
 
 ### 💖 Meet Daisy
 
-<img src="https://image.daisy.cat/uploads/_ndD0Cx08PTFr_ajoGqhp.png" width="120" style="border-radius:50%;" alt="Daisy Avatar">
-
 | 🌟 Role             | 💻 Specialty                             | 🎨 Aesthetic        |
 |---------------------|------------------------------------------|---------------------|
 | Minecraft Architect | Kotlin, Plugin Dev, Backend Wizardry     | Pastel & Cozy Pink  |
