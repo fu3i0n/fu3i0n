@@ -51,7 +51,7 @@
 🛠 **Architecting**: A next-gen Lifesteal plugin redefining PvP  
 🎓 **Leveling Up**: Kotlin Mastery to Mythic Rank  
 🔥 **Building**: Immersive server realms at [daisy.cat](https://daisy.cat)  
-🌙 **Operating On**: My last brain cell, but making it fashion   
+🌙 **Operating On**: My last brain cell, but making it fashion     
 
 </div>
 
