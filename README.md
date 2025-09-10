@@ -36,10 +36,6 @@
 **💬 My Discord Presence:**  
 [![Discord Presence](https://lanyard.cnrad.dev/api/295529835764252682?theme=dark&bg=0d1117&idleMessage=✨%20Probably%20coding...%20or%20gaming)](https://discord.com/users/295529835764252682)
 
-**🎮 Minecraft Server:**  
-![Minecraft Server](https://img.shields.io/badge/status-online-brightgreen?style=for-the-badge&logo=minecraft&logoColor=white)  
-`play.bleed.club`
-
 </div>
 
 ---
