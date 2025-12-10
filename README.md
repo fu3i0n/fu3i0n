@@ -6,7 +6,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29,30&height=120&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,22&height=120&section=header&animation=fadeIn"/>
 </p>
 
 <p align="center">
