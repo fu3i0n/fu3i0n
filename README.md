@@ -105,7 +105,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fu3i0n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFB6F9&icon_color=FFB6F9&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fu3i0n&theme=radical&hide_border=true&background=0D1117&stroke=FFB6F9&ring=FFB6F9&fire=FFB6F9&currStreakLabel=FFFFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=fu3i0n&theme=radical&hide_border=true&background=0D1117&stroke=FFB6F9&ring=FFB6F9&fire=FFB6F9&currStreakLabel=FFFFFF" />
 </div>
 
 ---
