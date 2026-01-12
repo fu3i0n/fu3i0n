@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=FFC3FA,FFB6F9,FF99E6&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=14,20,22&animation=fadeIn"/>
 </p>
 
 <div align="center">
@@ -89,5 +89,5 @@ I focus on writing code that works reliably, is easy to maintain, and helps me l
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=FFC3FA,FFB6F9,FF99E6"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=14,20,22"/>
 </p>
