@@ -84,5 +84,5 @@ Most of my work is written in **Kotlin**, backed by pragmatic backend services a
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=24,25,26,27,28,29,30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=14,20,22"/>
 </p>
