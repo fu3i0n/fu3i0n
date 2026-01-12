@@ -1,4 +1,4 @@
-<!-- Daisy — GitHub Profile README (2026) -->
+<!-- Daisy — GitHub Profile README (2026, Production Version) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=14,20,22&animation=fadeIn"/>
@@ -6,18 +6,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1800&color=FFB6F9&center=true&vCenter=true&width=720&lines=Daisy;Minecraft+Plugin+Engineer;Kotlin+%7C+Backend+%7C+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1800&color=FFB6F9&center=true&vCenter=true&width=720&lines=Daisy;Minecraft+Plugin+Developer;Kotlin+%7C+Backend+%7C+Learning+&+Building" />
 
 <br/>
 
 <a href="https://daisy.cat">
-  <img src="https://img.shields.io/badge/Website-daisy.cat-FFB6F9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website-daisy.cat-FFB6F9?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://discord.com/users/295529835764252682">
   <img src="https://img.shields.io/badge/Discord-98C1FF?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://github.com/fu3i0n?tab=followers">
-  <img src="https://img.shields.io/github/followers/fu3i0n?style=for-the-badge&color=FFB6F9" />
+  <img src="https://img.shields.io/badge/Followers-FFB6F9?style=for-the-badge" />
 </a>
 
 </div>
@@ -26,18 +26,18 @@
 
 ## About
 
-I design and build **Minecraft server systems** with an emphasis on **clean architecture, performance, and maintainability**.  
-Most of my work is written in **Kotlin**, backed by pragmatic backend services and production infrastructure.
+I create **Minecraft plugins** and work on small backend projects using **Kotlin**.  
+I focus on writing code that works reliably, is easy to maintain, and helps me learn new skills along the way.
 
 ---
 
 ## Focus Areas
 
-- Minecraft plugin engineering (Kotlin)
-- Modular, scalable server architectures
-- Backend services and APIs
-- Production infrastructure and automation
-- UI and UX polish where it matters
+- Minecraft plugin development
+- Experimenting with Kotlin and backend systems
+- Learning infrastructure and automation basics
+- Improving code quality and organization
+- Small-scale production projects
 
 ---
 
@@ -68,6 +68,7 @@ Most of my work is written in **Kotlin**, backed by pragmatic backend services a
 
 <div align="center">
 
+### Contributions over time
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fu3i0n&bg_color=0D1117&color=FFB6F9&line=FFB6F9&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
@@ -77,9 +78,9 @@ Most of my work is written in **Kotlin**, backed by pragmatic backend services a
 <details>
 <summary>Notes</summary>
 
-- Most projects are actively evolving
-- Documentation and polish are intentional
-- Pink is not a joke
+- Projects are evolving as I learn  
+- Code readability and maintainability are my priorities  
+- Pink is part of my personal branding  
 
 </details>
 
