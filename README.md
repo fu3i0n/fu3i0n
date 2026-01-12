@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://discord.com/users/295529835764252682">
-  <img src="https://lanyard-profile-readme.vercel.app/api/295529835764252682?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&hideBorder=true&idleMessage=✨%20Probably%20coding...%20or%20gaming" />
+  <img src="https://lanyard.cnrad.dev/api/295529835764252682?theme=dark&bg=0d1117&hideBorder=true&borderRadius=10px&idleMessage=✨%20Probably%20coding...%20or%20gaming" />
 </a>
 
 <br/><br/>
