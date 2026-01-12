@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=14,20,22&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=FFC3FA,FFB6F9,FF99E6&animation=fadeIn"/>
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://discord.com/users/295529835764252682">
-  <img src="https://lanyard.cnrad.dev/api/295529835764252682?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=✨%20Probably%20coding...%20or%20gaming" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/295529835764252682?theme=dark&bg=1F2428&animated=true&hideDiscrim=true&borderRadius=10&idleMessage=✨%20Probably%20coding...%20or%20gaming" />
 </a>
 
 <br/><br/>
@@ -89,5 +89,5 @@ I focus on writing code that works reliably, is easy to maintain, and helps me l
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=14,20,22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=FFC3FA,FFB6F9,FF99E6"/>
 </p>
