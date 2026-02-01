@@ -20,7 +20,7 @@
 <a href="https://discord.com/users/295529835764252682">
   <img src="https://img.shields.io/badge/Discord-Profile-FFB6F9?style=for-the-badge&logo=discord&logoColor=black" />
 </a>
-<a href="https://github.com/fu3i0n?tab=followers">
+<a href="https://github.com/DaisyCatTs?tab=followers">
   <img src="https://img.shields.io/badge/Followers-View-FFB6F9?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
@@ -71,7 +71,7 @@ I focus on writing code that works reliably, is easy to maintain, and helps me l
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fu3i0n&bg_color=0D1117&color=FFB6F9&line=FFB6F9&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaisyCatTs&bg_color=0D1117&color=FFB6F9&line=FFB6F9&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
